@@ -1,2 +1,2 @@
 # TestAmericanasFeatures
-Projeto de teste de features do Portal de e-comerce Americanas
+Test Project of features Americanas E-Comerce Web Portal
